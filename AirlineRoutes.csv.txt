@@ -1,0 +1,157 @@
+FlightID,RouteCode,Airline,DepartureAirport,ArrivalAirport,DepartureCity,ArrivalCity,DepartureCountry,ArrivalCountry,DistanceKM,FlightDurationMin,AircraftType,WeeklyFrequency,Stops,Alliance,BaseFareUSD
+FL001,BOM-DEL,Air India,MUMBAI (BOM),DELHI (DEL),Mumbai,Delhi,India,India,1134,140,A320,42,0,Star Alliance,120
+FL002,JFK-LHR,British Airways,JFK (JFK),HEATHROW (LHR),New York,London,USA,UK,5556,420,B777,28,0,oneworld,650
+FL003,DXB-LHR,Emirates,DXB (DXB),HEATHROW (LHR),Dubai,London,UAE,UK,5500,420,A380,35,0,Emirates,700
+FL004,SIN-SYD,Singapore Airlines,CHANGI (SIN),SYDNEY (SYD),Singapore,Sydney,Singapore,Australia,6300,480,A350,21,0,Star Alliance,550
+FL005,LAX-NRT,American Airlines,LAX (LAX),NARITA (NRT),Los Angeles,Tokyo,USA,Japan,8817,600,B787,14,0,oneworld,850
+FL006,CDG-FRA,Air France,CHARLES DE GAULLE (CDG),FRANKFURT (FRA),Paris,Frankfurt,France,Germany,450,70,A320,56,0,SkyTeam,150
+FL007,HKG-PVG,Cathay Pacific,HONG KONG (HKG),SHANGHAI (PVG),Hong Kong,Shanghai,Hong Kong,China,1250,180,A330,49,0,oneworld,250
+FL008,ORD-DFW,United Airlines,O'HARE (ORD),DALLAS (DFW),Chicago,Dallas,USA,USA,1290,150,B737,63,0,Star Alliance,200
+FL009,MIA-GRU,American Airlines,MIAMI (MIA),GUARULHOS (GRU),Miami,Sao Paulo,USA,Brazil,6840,480,B777,21,0,oneworld,600
+FL010,AMS-IST,KLM,AMSTERDAM (AMS),ISTANBUL (IST),Amsterdam,Istanbul,Netherlands,Turkey,2200,210,A330,28,0,SkyTeam,300
+FL011,BKK-KUL,Thai Airways,BANGKOK (BKK),KUALA LUMPUR (KUL),Bangkok,Kuala Lumpur,Thailand,Malaysia,1200,130,A320,35,0,Star Alliance,100
+FL012,YVR-YYZ,Air Canada,VANCOUVER (YVR),TORONTO (YYZ),Vancouver,Toronto,Canada,Canada,3360,260,B787,42,0,Star Alliance,350
+FL013,MAD-BCN,Iberia,MADRID (MAD),BARCELONA (BCN),Madrid,Barcelona,Spain,Spain,483,65,A320,70,0,oneworld,80
+FL014,ICN-PEK,Korean Air,INCHEON (ICN),BEIJING (PEK),Seoul,Beijing,South Korea,China,954,120,B737,56,0,SkyTeam,180
+FL015,ATL-MCO,Delta,ATLANTA (ATL),ORLANDO (MCO),Atlanta,Orlando,USA,USA,645,85,B737,84,0,SkyTeam,120
+FL016,ZRH-VIE,Swiss,ZURICH (ZRH),VIENNA (VIE),Zurich,Vienna,Switzerland,Austria,590,75,ERJ-190,42,0,Star Alliance,130
+FL017,AUH-CAI,Etihad,ABU DHABI (AUH),CAIRO (CAI),Abu Dhabi,Cairo,UAE,Egypt,2370,210,A320,28,0,Etihad,250
+FL018,DOH-DXB,Qatar Airways,DOHA (DOH),DUBAI (DXB),Doha,Dubai,Qatar,UAE,380,55,A320,63,0,oneworld,150
+FL019,LHR-EDI,British Airways,HEATHROW (LHR),EDINBURGH (EDI),London,Edinburgh,UK,UK,533,70,A320,77,0,oneworld,90
+FL020,FCO-MXP,Alitalia,FIUMICINO (FCO),MALPENSA (MXP),Rome,Milan,Italy,Italy,478,60,A320,63,0,SkyTeam,70
+FL021,SFO-SEA,Alaska Airlines,SAN FRANCISCO (SFO),SEATTLE (SEA),San Francisco,Seattle,USA,USA,1090,105,B737,56,0,Alaska,130
+FL022,MEL-PER,Qantas,MELBOURNE (MEL),PERTH (PER),Melbourne,Perth,Australia,Australia,2721,240,B737,35,0,oneworld,300
+FL023,CPT-JNB,South African Airways,CAPE TOWN (CPT),JOHANNESBURG (JNB),Cape Town,Johannesburg,South Africa,South Africa,1273,120,A320,49,0,Star Alliance,100
+FL024,TLV-ATH,El Al,BEN GURION (TLV),ATHENS (ATH),Tel Aviv,Athens,Israel,Greece,1420,150,B737,21,0,El Al,200
+FL025,OSL-CPH,SAS,OSLO (OSL),COPENHAGEN (CPH),Oslo,Copenhagen,Norway,Denmark,483,55,B737,63,0,Star Alliance,120
+FL026,BOG-MEX,Avianca,BOGOTA (BOG),MEXICO CITY (MEX),Bogota,Mexico City,Colombia,Mexico,3210,240,A320,21,0,Star Alliance,350
+FL027,DEL-KTM,Air India,DELHI (DEL),KATHMANDU (KTM),Delhi,Kathmandu,India,Nepal,850,90,A320,28,0,Star Alliance,110
+FL028,IST-ESB,Turkish Airlines,ISTANBUL (IST),ANKARA (ESB),Istanbul,Ankara,Turkey,Turkey,350,55,B737,84,0,Star Alliance,60
+FL029,HND-FUK,ANA,HANEDA (HND),FUKUOKA (FUK),Tokyo,Fukuoka,Japan,Japan,880,95,B787,70,0,Star Alliance,150
+FL030,AKL-WLG,Air New Zealand,AUCKLAND (AKL),WELLINGTON (WLG),Auckland,Wellington,New Zealand,New Zealand,493,60,A320,56,0,Star Alliance,80
+FL031,MNL-SIN,Philippine Airlines,NINOY AQUINO (MNL),CHANGI (SIN),Manila,Singapore,Philippines,Singapore,2390,210,A330,28,0,Philippine,220
+FL032,LED-SVO,Aeroflot,PULKOVO (LED),SHEREMETYEVO (SVO),St. Petersburg,Moscow,Russia,Russia,634,70,SSJ-100,91,0,SkyTeam,90
+FL033,BSB-GIG,LATAM,BRASILIA (BSB),GALEAO (GIG),Brasilia,Rio de Janeiro,Brazil,Brazil,936,90,A320,42,0,LATAM,120
+FL034,WAW-KRK,LOT,WARSAW (WAW),KRAKOW (KRK),Warsaw,Krakow,Poland,Poland,251,40,Embraer 175,56,0,Star Alliance,50
+FL035,DAC-CGP,Biman Bangladesh,DHAKA (DAC),CHITTAGONG (CGP),Dhaka,Chittagong,Bangladesh,Bangladesh,196,45,ATR 72,35,0,Biman,60
+FL036,CAI-RUH,EgyptAir,CAIRO (CAI),RIYADH (RUH),Cairo,Riyadh,Egypt,Saudi Arabia,1300,135,A320,28,0,Star Alliance,180
+FL037,CMB-MLE,SriLankan Airlines,COLOMBO (CMB),MALE (MLE),Colombo,Male,Sri Lanka,Maldives,772,90,A320,21,0,oneworld,150
+FL038,KWI-BAH,Kuwait Airways,KUWAIT (KWI),BAHRAIN (BAH),Kuwait City,Manama,Kuwait,Bahrain,450,55,A320,42,0,Kuwait,100
+FL039,MSY-IAH,Southwest,LOUIS ARMSTRONG (MSY),HOUSTON (IAH),New Orleans,Houston,USA,USA,485,70,B737,63,0,Southwest,110
+FL040,PHX-DEN,Frontier,PHOENIX (PHX),DENVER (DEN),Phoenix,Denver,USA,USA,830,95,A320,49,0,Frontier,100
+FL041,GVA-CDG,EasyJet,GENEVA (GVA),CHARLES DE GAULLE (CDG),Geneva,Paris,Switzerland,France,410,60,A320,56,0,EasyJet,80
+FL042,MAN-BHX,Ryanair,MANCHESTER (MAN),BIRMINGHAM (BHX),Manchester,Birmingham,UK,UK,103,40,B737-800,70,0,Ryanair,30
+FL043,BUD-PRG,Wizz Air,BUDAPEST (BUD),PRAGUE (PRG),Budapest,Prague,Hungary,Czech Republic,300,55,A320,42,0,Wizz Air,50
+FL044,SVO-PEK,Aeroflot,SHEREMETYEVO (SVO),BEIJING (PEK),Moscow,Beijing,Russia,China,5790,480,B777,14,0,SkyTeam,550
+FL045,JNB-HRE,South African Airways,JOHANNESBURG (JNB),HARARE (HRE),Johannesburg,Harare,South Africa,Zimbabwe,1210,120,B737,28,0,Star Alliance,180
+FL046,DME-AER,S7 Airlines,DOMODEDOVO (DME),SOCHI (AER),Moscow,Sochi,Russia,Russia,1364,135,B737,35,0,oneworld,120
+FL047,KEF-OSW,Icelandair,KEFLAVIK (KEF),STOCKHOLM (OSW),Reykjavik,Stockholm,Iceland,Sweden,2070,195,B737,21,0,Icelandair,250
+FL048,LIS-OPO,TAP Portugal,LISBON (LIS),PORTO (OPO),Lisbon,Porto,Portugal,Portugal,313,40,ATR 72,56,0,Star Alliance,60
+FL049,BKK-HKT,Bangkok Airways,BANGKOK (BKK),PHUKET (HKT),Bangkok,Phuket,Thailand,Thailand,690,70,A319,42,0,Bangkok,80
+FL050,BLR-MAA,IndiGo,BENGALURU (BLR),CHENNAI (MAA),Bangalore,Chennai,India,India,284,50,A320,70,0,IndiGo,40
+FL051,DEL-BOM,IndiGo,DELHI (DEL),MUMBAI (BOM),Delhi,Mumbai,India,India,1134,140,A320,84,0,IndiGo,110
+FL052,LHR-CDG,Air France,HEATHROW (LHR),CHARLES DE GAULLE (CDG),London,Paris,UK,France,344,60,A320,98,0,SkyTeam,90
+FL053,JFK-SFO,Delta,JFK (JFK),SAN FRANCISCO (SFO),New York,San Francisco,USA,USA,4150,360,A330,28,0,SkyTeam,450
+FL054,SYD-AKL,Virgin Australia,SYDNEY (SYD),AUCKLAND (AKL),Sydney,Auckland,Australia,New Zealand,2156,180,B737,35,0,Virgin,280
+FL055,DOH-LHR,Qatar Airways,DOHA (DOH),HEATHROW (LHR),Doha,London,Qatar,UK,5250,420,A350,28,0,oneworld,650
+FL056,HND-ICN,Japan Airlines,HANEDA (HND),INCHEON (ICN),Tokyo,Seoul,Japan,South Korea,1238,150,B787,42,0,oneworld,250
+FL057,CDG-AMS,Air France,CHARLES DE GAULLE (CDG),AMSTERDAM (AMS),Paris,Amsterdam,France,Netherlands,430,60,A320,70,0,SkyTeam,100
+FL058,ORD-LAX,American Airlines,O'HARE (ORD),LAX (LAX),Chicago,Los Angeles,USA,USA,2813,260,B787,42,0,oneworld,350
+FL059,GRU-EZE,LATAM,GUARULHOS (GRU),EZEIZA (EZE),Sao Paulo,Buenos Aires,Brazil,Argentina,1690,180,A320,35,0,LATAM,200
+FL060,ZRH-LHR,Swiss,ZURICH (ZRH),HEATHROW (LHR),Zurich,London,Switzerland,UK,782,105,A320,49,0,Star Alliance,180
+FL061,MAD-LIS,Iberia,MADRID (MAD),LISBON (LIS),Madrid,Lisbon,Spain,Portugal,503,75,A320,42,0,oneworld,100
+FL062,HKG-TPE,Cathay Pacific,HONG KONG (HKG),TAIPEI (TPE),Hong Kong,Taipei,Hong Kong,Taiwan,807,95,A330,56,0,oneworld,150
+FL063,YYZ-YUL,Air Canada,TORONTO (YYZ),MONTREAL (YUL),Toronto,Montreal,Canada,Canada,504,65,CRJ-900,84,0,Star Alliance,120
+FL064,IST-TLV,Turkish Airlines,ISTANBUL (IST),BEN GURION (TLV),Istanbul,Tel Aviv,Turkey,Israel,1178,130,A321,28,0,Star Alliance,200
+FL065,AUH-LHR,Etihad,ABU DHABI (AUH),HEATHROW (LHR),Abu Dhabi,London,UAE,UK,5570,420,B787,21,0,Etihad,600
+FL066,SIN-KUL,Singapore Airlines,CHANGI (SIN),KUALA LUMPUR (KUL),Singapore,Kuala Lumpur,Singapore,Malaysia,319,45,A350,70,0,Star Alliance,80
+FL067,LAX-ORD,United Airlines,LAX (LAX),O'HARE (ORD),Los Angeles,Chicago,USA,USA,2813,260,B777,42,0,Star Alliance,350
+FL068,DXB-BOM,Emirates,DXB (DXB),MUMBAI (BOM),Dubai,Mumbai,UAE,India,1926,210,B777,35,0,Emirates,250
+FL069,PEK-PVG,Air China,BEIJING (PEK),SHANGHAI (PVG),Beijing,Shanghai,China,China,1075,135,A330,84,0,Star Alliance,150
+FL070,ATL-DFW,Delta,ATLANTA (ATL),DALLAS (DFW),Atlanta,Dallas,USA,USA,1192,140,B737,63,0,SkyTeam,180
+FL071,FRA-MUC,Lufthansa,FRANKFURT (FRA),MUNICH (MUC),Frankfurt,Munich,Germany,Germany,304,45,A320,91,0,Star Alliance,90
+FL072,MEX-CUN,Aeromexico,MEXICO CITY (MEX),CANCUN (CUN),Mexico City,Cancun,Mexico,Mexico,1283,120,B737,56,0,SkyTeam,130
+FL073,DEL-CCU,SpiceJet,DELHI (DEL),KOLKATA (CCU),Delhi,Kolkata,India,India,1305,150,B737,42,0,SpiceJet,90
+FL074,LHR-FCO,British Airways,HEATHROW (LHR),FIUMICINO (FCO),London,Rome,UK,Italy,1435,150,A320,35,0,oneworld,180
+FL075,ICN-PUS,Asiana Airlines,INCHEON (ICN),BUSAN (PUS),Seoul,Busan,South Korea,South Korea,325,45,A321,70,0,Star Alliance,60
+FL076,CPH-ARN,SAS,COPENHAGEN (CPH),STOCKHOLM (ARN),Copenhagen,Stockholm,Denmark,Sweden,523,55,B737,63,0,Star Alliance,100
+FL077,BOG-PTY,Avianca,BOGOTA (BOG),PANAMA CITY (PTY),Bogota,Panama City,Colombia,Panama,628,80,A320,28,0,Star Alliance,150
+FL078,JNB-LOS,South African Airways,JOHANNESBURG (JNB),LAGOS (LOS),Johannesburg,Lagos,South Africa,Nigeria,4750,360,A330,14,0,Star Alliance,550
+FL079,DOH-AUH,Qatar Airways,DOHA (DOH),ABU DHABI (AUH),Doha,Abu Dhabi,Qatar,UAE,310,45,A320,56,0,oneworld,120
+FL080,VIE-BUD,Austrian Airlines,VIENNA (VIE),BUDAPEST (BUD),Vienna,Budapest,Austria,Hungary,216,40,Embraer 195,42,0,Star Alliance,70
+FL081,SEA-YVR,Alaska Airlines,SEATTLE (SEA),VANCOUVER (YVR),Seattle,Vancouver,USA,Canada,200,40,Q400,77,0,Alaska,60
+FL082,PER-SYD,Qantas,PERTH (PER),SYDNEY (SYD),Perth,Sydney,Australia,Australia,3290,240,B787,28,0,oneworld,350
+FL083,CAI-IST,EgyptAir,CAIRO (CAI),ISTANBUL (IST),Cairo,Istanbul,Egypt,Turkey,1215,130,A320,35,0,Star Alliance,200
+FL084,MNL-HKG,Cebu Pacific,NINOY AQUINO (MNL),HONG KONG (HKG),Manila,Hong Kong,Philippines,Hong Kong,1117,135,A330,42,0,Cebu Pacific,150
+FL085,LED-HEL,Rossiya,PULKOVO (LED),HELSINKI (HEL),St. Petersburg,Helsinki,Russia,Finland,295,50,SSJ-100,35,0,SkyTeam,100
+FL086,GIG-FOR,GOL,GALEAO (GIG),FORTALEZA (FOR),Rio de Janeiro,Fortaleza,Brazil,Brazil,2285,180,B737,28,0,GOL,200
+FL087,WAW-VIE,LOT,WARSAW (WAW),VIENNA (VIE),Warsaw,Vienna,Poland,Austria,556,70,Embraer 175,42,0,Star Alliance,100
+FL088,DAC-KHI,Biman Bangladesh,DHAKA (DAC),KARACHI (KHI),Dhaka,Karachi,Bangladesh,Pakistan,1940,180,A310,14,0,Biman,220
+FL089,KWI-DXB,Kuwait Airways,KUWAIT (KWI),DUBAI (DXB),Kuwait City,Dubai,Kuwait,UAE,855,105,A320,35,0,Kuwait,150
+FL090,MSY-ATL,Delta,LOUIS ARMSTRONG (MSY),ATLANTA (ATL),New Orleans,Atlanta,USA,USA,734,100,B717,56,0,SkyTeam,130
+FL091,PHX-LAS,American Airlines,PHOENIX (PHX),LAS VEGAS (LAS),Phoenix,Las Vegas,USA,USA,416,65,B737,70,0,oneworld,80
+FL092,GVA-ZRH,Swiss,GENEVA (GVA),ZURICH (ZRH),Geneva,Zurich,Switzerland,Switzerland,230,35,Embraer 190,84,0,Star Alliance,50
+FL093,MAN-DUB,Ryanair,MANCHESTER (MAN),DUBLIN (DUB),Manchester,Dublin,UK,Ireland,263,45,B737-800,63,0,Ryanair,40
+FL094,BUD-VIE,Wizz Air,BUDAPEST (BUD),VIENNA (VIE),Budapest,Vienna,Hungary,Austria,216,40,A320,49,0,Wizz Air,50
+FL095,SVO-DME,Aeroflot,SHEREMETYEVO (SVO),DOMODEDOVO (DME),Moscow,Moscow,Russia,Russia,45,30,SSJ-100,112,0,SkyTeam,30
+FL096,JNB-MRU,Air Mauritius,JOHANNESBURG (JNB),MAURITIUS (MRU),Johannesburg,Port Louis,South Africa,Mauritius,2920,210,A330,21,0,Air Mauritius,300
+FL097,DME-LED,S7 Airlines,DOMODEDOVO (DME),PULKOVO (LED),Moscow,St. Petersburg,Russia,Russia,634,70,B737,77,0,oneworld,90
+FL098,KEF-CPH,Icelandair,KEFLAVIK (KEF),COPENHAGEN (CPH),Reykjavik,Copenhagen,Iceland,Denmark,2105,195,B737,21,0,Icelandair,240
+FL099,LIS-MAD,TAP Portugal,LISBON (LIS),MADRID (MAD),Lisbon,Madrid,Portugal,Spain,503,75,A320,42,0,Star Alliance,100
+FL100,BKK-CNX,Bangkok Airways,BANGKOK (BKK),CHIANG MAI (CNX),Bangkok,Chiang Mai,Thailand,Thailand,590,65,A319,49,0,Bangkok,70
+FL101,BLR-HYD,Air India,BENGALURU (BLR),HYDERABAD (HYD),Bangalore,Hyderabad,India,India,463,60,A320,63,0,Star Alliance,50
+FL102,DXB-AUH,Emirates,DXB (DXB),ABU DHABI (AUH),Dubai,Abu Dhabi,UAE,UAE,128,30,B777,112,0,Emirates,50
+FL103,CDG-MAD,Air France,CHARLES DE GAULLE (CDG),MADRID (MAD),Paris,Madrid,France,Spain,1053,120,A320,35,0,SkyTeam,150
+FL104,JFK-MIA,American Airlines,JFK (JFK),MIAMI (MIA),New York,Miami,USA,USA,1765,180,B737,42,0,oneworld,250
+FL105,SYD-MEL,Qantas,SYDNEY (SYD),MELBOURNE (MEL),Sydney,Melbourne,Australia,Australia,713,75,B737,126,0,oneworld,100
+FL106,DOH-DXB,Qatar Airways,DOHA (DOH),DUBAI (DXB),Doha,Dubai,Qatar,UAE,380,55,A320,70,0,oneworld,120
+FL107,ICN-KIX,Korean Air,INCHEON (ICN),KANSAI (KIX),Seoul,Osaka,South Korea,Japan,1150,135,B777,28,0,SkyTeam,220
+FL108,AMS-BRU,KLM,AMSTERDAM (AMS),BRUSSELS (BRU),Amsterdam,Brussels,Netherlands,Belgium,173,35,Embraer 175,77,0,SkyTeam,60
+FL109,LAX-SEA,Alaska Airlines,LAX (LAX),SEATTLE (SEA),Los Angeles,Seattle,USA,USA,1540,145,B737,56,0,Alaska,130
+FL110,GRU-MIA,LATAM,GUARULHOS (GRU),MIAMI (MIA),Sao Paulo,Miami,Brazil,USA,6840,480,B777,21,0,LATAM,600
+FL111,ZRH-GVA,Swiss,ZURICH (ZRH),GENEVA (GVA),Zurich,Geneva,Switzerland,Switzerland,230,35,Embraer 190,91,0,Star Alliance,50
+FL112,MAD-BCN,Vueling,MADRID (MAD),BARCELONA (BCN),Madrid,Barcelona,Spain,Spain,483,65,A320,98,0,Vueling,60
+FL113,HKG-PEK,Cathay Pacific,HONG KONG (HKG),BEIJING (PEK),Hong Kong,Beijing,Hong Kong,China,1996,195,A330,42,0,oneworld,280
+FL114,YYZ-YVR,Air Canada,TORONTO (YYZ),VANCOUVER (YVR),Toronto,Vancouver,Canada,Canada,3360,260,B787,35,0,Star Alliance,350
+FL115,IST-ATH,Turkish Airlines,ISTANBUL (IST),ATHENS (ATH),Istanbul,Athens,Turkey,Greece,550,75,B737,42,0,Star Alliance,120
+FL116,AUH-DXB,Etihad,ABU DHABI (AUH),DUBAI (DXB),Abu Dhabi,Dubai,UAE,UAE,128,30,A320,126,0,Etihad,40
+FL117,SIN-BKK,Singapore Airlines,CHANGI (SIN),BANGKOK (BKK),Singapore,Bangkok,Singapore,Thailand,1435,150,A350,49,0,Star Alliance,180
+FL118,ORD-ATL,United Airlines,O'HARE (ORD),ATLANTA (ATL),Chicago,Atlanta,USA,USA,944,115,B737,70,0,Star Alliance,150
+FL119,DXB-DOH,Emirates,DXB (DXB),DOHA (DOH),Dubai,Doha,UAE,Qatar,380,55,B777,56,0,Emirates,120
+FL120,PEK-SHA,Air China,BEIJING (PEK),SHANGHAI (SHA),Beijing,Shanghai,China,China,1075,135,A330,91,0,Star Alliance,140
+FL121,ATL-MIA,Delta,ATLANTA (ATL),MIAMI (MIA),Atlanta,Miami,USA,USA,965,110,B717,63,0,SkyTeam,130
+FL122,FRA-BER,Lufthansa,FRANKFURT (FRA),BERLIN (BER),Frankfurt,Berlin,Germany,Germany,423,55,A320,84,0,Star Alliance,100
+FL123,MEX-MTY,Aeromexico,MEXICO CITY (MEX),MONTERREY (MTY),Mexico City,Monterrey,Mexico,Mexico,713,80,B737,49,0,SkyTeam,90
+FL124,DEL-MAA,Air India,DELHI (DEL),CHENNAI (MAA),Delhi,Chennai,India,India,1760,165,A321,42,0,Star Alliance,150
+FL125,LHR-AMS,British Airways,HEATHROW (LHR),AMSTERDAM (AMS),London,Amsterdam,UK,Netherlands,358,55,A320,70,0,oneworld,100
+FL126,ICN-CJU,Asiana Airlines,INCHEON (ICN),JEJU (CJU),Seoul,Jeju,South Korea,South Korea,452,55,A321,84,0,Star Alliance,70
+FL127,CPH-HEL,SAS,COPENHAGEN (CPH),HELSINKI (HEL),Copenhagen,Helsinki,Denmark,Finland,893,90,B737,35,0,Star Alliance,120
+FL128,BOG-LIM,Avianca,BOGOTA (BOG),LIMA (LIM),Bogota,Lima,Colombia,Peru,1897,180,A320,21,0,Star Alliance,220
+FL129,JNB-CPT,South African Airways,JOHANNESBURG (JNB),CAPE TOWN (CPT),Johannesburg,Cape Town,South Africa,South Africa,1273,120,A320,70,0,Star Alliance,100
+FL130,DOH-RUH,Qatar Airways,DOHA (DOH),RIYADH (RUH),Doha,Riyadh,Qatar,Saudi Arabia,431,60,A320,49,0,oneworld,150
+FL131,VIE-PRG,Austrian Airlines,VIENNA (VIE),PRAGUE (PRG),Vienna,Prague,Austria,Czech Republic,254,45,Embraer 195,42,0,Star Alliance,80
+FL132,SEA-PDX,Alaska Airlines,SEATTLE (SEA),PORTLAND (PDX),Seattle,Portland,USA,USA,233,40,Q400,84,0,Alaska,50
+FL133,PER-ADL,Qantas,PERTH (PER),ADELAIDE (ADL),Perth,Adelaide,Australia,Australia,2125,180,B737,28,0,oneworld,250
+FL134,CAI-JED,EgyptAir,CAIRO (CAI),JEDDAH (JED),Cairo,Jeddah,Egypt,Saudi Arabia,1220,130,A320,35,0,Star Alliance,170
+FL135,MNL-SGN,Philippine Airlines,NINOY AQUINO (MNL),HO CHI MINH (SGN),Manila,Ho Chi Minh City,Philippines,Vietnam,2090,190,A321,21,0,Philippine,200
+FL136,LED-TLL,Rossiya,PULKOVO (LED),TALLINN (TLL),St. Petersburg,Tallinn,Russia,Estonia,315,50,SSJ-100,28,0,SkyTeam,90
+FL137,GIG-REC,GOL,GALEAO (GIG),RECIFE (REC),Rio de Janeiro,Recife,Brazil,Brazil,1860,150,B737,35,0,GOL,180
+FL138,WAW-KTW,LOT,WARSAW (WAW),KATOWICE (KTW),Warsaw,Katowice,Poland,Poland,254,40,Embraer 175,42,0,Star Alliance,50
+FL139,DAC-DEL,Biman Bangladesh,DHAKA (DAC),DELHI (DEL),Dhaka,Delhi,Bangladesh,India,1450,150,A310,14,0,Biman,180
+FL140,KWI-RUH,Kuwait Airways,KUWAIT (KWI),RIYADH (RUH),Kuwait City,Riyadh,Kuwait,Saudi Arabia,557,70,A320,35,0,Kuwait,130
+FL141,MSY-DFW,American Airlines,LOUIS ARMSTRONG (MSY),DALLAS (DFW),New Orleans,Dallas,USA,USA,719,90,B737,49,0,oneworld,110
+FL142,PHX-SAN,American Airlines,PHOENIX (PHX),SAN DIEGO (SAN),Phoenix,San Diego,USA,USA,502,70,B737,63,0,oneworld,90
+FL143,GVA-MXP,EasyJet,GENEVA (GVA),MALPENSA (MXP),Geneva,Milan,Switzerland,Italy,217,45,A320,42,0,EasyJet,70
+FL144,MAN-GLA,Ryanair,MANCHESTER (MAN),GLASGOW (GLA),Manchester,Glasgow,UK,UK,289,45,B737-800,56,0,Ryanair,40
+FL145,BUD-WAW,Wizz Air,BUDAPEST (BUD),WARSAW (WAW),Budapest,Warsaw,Hungary,Poland,545,65,A320,35,0,Wizz Air,70
+FL146,SVO-LED,Aeroflot,SHEREMETYEVO (SVO),PULKOVO (LED),Moscow,St. Petersburg,Russia,Russia,634,70,A320,98,0,SkyTeam,80
+FL147,JNB-LAD,TAAG Angola,JOHANNESBURG (JNB),LUANDA (LAD),Johannesburg,Luanda,South Africa,Angola,2825,240,B737,14,0,TAAG,350
+FL148,DME-KRR,S7 Airlines,DOMODEDOVO (DME),KRASNODAR (KRR),Moscow,Krasnodar,Russia,Russia,1205,115,B737,28,0,oneworld,110
+FL149,KEF-OSL,Icelandair,KEFLAVIK (KEF),OSLO (OSL),Reykjavik,Oslo,Iceland,Norway,1765,170,B737,21,0,Icelandair,230
+FL150,LIS-OPO,TAP Portugal,LISBON (LIS),PORTO (OPO),Lisbon,Porto,Portugal,Portugal,313,40,ATR 72,63,0,Star Alliance,60
+FL151,BKK-UTH,Thai Airways,BANGKOK (BKK),UTHAI THANI (UTH),Bangkok,Uthai Thani,Thailand,Thailand,366,45,A319,35,0,Star Alliance,60
+FL152,BLR-COK,IndiGo,BENGALURU (BLR),KOCHI (COK),Bangalore,Kochi,India,India,498,70,A320,42,0,IndiGo,60
+FL153,DEL-HYD,IndiGo,DELHI (DEL),HYDERABAD (HYD),Delhi,Hyderabad,India,India,1260,140,A320,56,0,IndiGo,110
+FL154,LHR-ZRH,British Airways,HEATHROW (LHR),ZURICH (ZRH),London,Zurich,UK,Switzerland,782,105,A320,35,0,oneworld,150
+FL155,JFK-ORD,United Airlines,JFK (JFK),O'HARE (ORD),New York,Chicago,USA,USA,1185,150,B737,56,0,Star Alliance,200
+FL156,SYD-BNE,Qantas,SYDNEY (SYD),BRISBANE (BNE),Sydney,Brisbane,Australia,Australia,732,80,B737,84,0,oneworld,120
